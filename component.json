@@ -2,7 +2,7 @@
   "name": "gauges",
   "version": "0.0.1",
   "repo": "logo/gauges",
-  "images": [],
+  "images": ["images/logo.png"],
   "styles": [
     "index.css"
   ],
