@@ -9,9 +9,7 @@
     "index.css"
   ],
   "images": [
-    "images/logo.svg",
-    "images/logo-black.svg",
-    "images/logo-white.svg"
+    "images/logo.png"
   ],
   "dependencies": {
     "logo/logo": "*"
