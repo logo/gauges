@@ -1,0 +1,14 @@
+
+/**
+ * Gauges
+ */
+
+.logo[data-logo="Gauges"] {
+  width: 3.404255319em;
+  /* (400/141) * (1+.1+.1) - 0 */
+}
+
+.logo[data-logo="Gauges"] > * {
+  background-image: url(images/logo.png);
+  margin: -.1em 0;
+}
